@@ -1,0 +1,5 @@
+opencv-contrib-python==4.11.0.86
+mediapipe==0.10.14
+tensorflow==2.16.1
+ml_dtypes==0.3.2
+numpy==1.26.4
